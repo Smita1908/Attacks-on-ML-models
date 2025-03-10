@@ -1,6 +1,6 @@
 # Attacks-on-ML-models
 💡 Focused on <a href="https://github.com/Smita1908/Attacks-on-ML-models/blob/main/Membership_inference_attack_SB.ipynb"> Implementation of a simple MIA in NLP </a>
-# Easy guide for people who are not deeply familiar with MIA
+# 🗣️ Easy guide for people who are not deeply familiar with MIA
 - Task: Membership inference attack in NLP
 - Implemented by: Smita Bhattacharya
 - Date: December, 16, 2024
